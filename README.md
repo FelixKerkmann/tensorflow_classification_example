@@ -7,4 +7,4 @@
 ### Requirements
 
 - install pip
-- tensorflow, numpy, matlibplot
+- tensorflow, numpy, matplotlib
