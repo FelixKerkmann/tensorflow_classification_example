@@ -1,4 +1,5 @@
 import clothing
+import rvlcdip
 
 # TensorFlow and tf.keras
 import tensorflow as tf
@@ -9,7 +10,8 @@ import matplotlib.pyplot as plt
 
 
 if __name__ == '__main__':
-    clothing.clothing()
+    # clothing.clothing()
+    rvlcdip.rvlcdip()
     
 
 
